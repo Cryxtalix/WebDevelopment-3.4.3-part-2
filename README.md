@@ -13,4 +13,4 @@ Team assignment
 <p>tipplingclub-bar-logo.png, Tippling Club Singapore, https://tipplingclub.com/</p>
 <p>Twitter_Logo_Blue.png, Twitter Inc, Twitter Brand Resources, https://about.twitter.com/</p>
 <p>yt_icon_rgb.png, YouTube Google LLC, Brand Resources, https://www.youtube.com/</p>
-<p>zizzi-restaurant-logo.png, Zizzi Azzurri Restaurants Ltd, Azzurri Restaurants Ltd, https://github.com/Cryxtalix/WebDevelopment-Group-127.git</p>
+<p>zizzi-restaurant-logo.png, Zizzi Azzurri Restaurants Ltd, Azzurri Restaurants Ltd, https://www.zizzi.co.uk/menus/full-menu/starters</p>
