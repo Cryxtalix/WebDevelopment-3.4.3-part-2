@@ -1,7 +1,7 @@
 # WebDevelopment Group 127
 Team assignment
 
-Citations for images
+<b>Citations for images</b>
 
 <p>carrows-restaurant-logo.png, Carrows Restaurants, https://carrows.com/</p>
 <p>frischs-restaurant-logo.png, Frisch's Restaurants, Inc, www.frischs.com</p>
