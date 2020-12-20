@@ -3,7 +3,7 @@ Team assignment
 
 Citations for images
 
-carrows-restaurant-logo.png, Carrows Restaurants, https://carrows.com/
+<p>carrows-restaurant-logo.png, Carrows Restaurants, https://carrows.com/</p>
 frischs-restaurant-logo.png, Frisch's Restaurants, Inc, www.frischs.com
 Gift-vendor-logo.png, Resorts World at Sentosa Pte. Ltd, Reef ‘n Wave Wear, https://www.rwsentosa.com/en/attractions/adventure-cove-waterpark/shop-and-dine
 icecream-vendor-logo.png, Resorts World at Sentosa Pte. Ltd, Blu Ice Treats, https://www.rwsentosa.com/en/attractions/adventure-cove-waterpark/shop-and-dine
